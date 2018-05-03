@@ -10,7 +10,7 @@ Test for documentation
 
 test commit vscode
 
-qdsdqqsqsdqs
+dsqdsqsddsqqssq
 
 ## Contents
 
@@ -20,5 +20,6 @@ qdsdqqsqsdqs
 
 ### server command
 
-_Usage:_ !server  or  or  _Function:_ provide information abour the current server
+*Usage:* !server <name> or <owner> or <createdAt>  
+*Function:* provide information abour the current server
 
