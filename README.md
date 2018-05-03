@@ -1,11 +1,20 @@
-# Tachikoma
+# README
+
+## Tachikoma
+
 Everyday Discord Bot
 
-# Contents
+
+
+Test for documentation
+
+## Contents
+
 1. server command
 
-# Commands
+## Commands
 
-## server command
-*Usage:* !server <name> or <owner> or <createdAt>\
-*Function:* provide information abour the current server
+### server command
+
+_Usage:_ !server  or  or  _Function:_ provide information abour the current server
+
