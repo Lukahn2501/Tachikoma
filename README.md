@@ -8,6 +8,8 @@ Everyday Discord Bot
 
 Test for documentation
 
+test commit vscode
+
 ## Contents
 
 1. server command
