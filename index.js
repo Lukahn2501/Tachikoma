@@ -54,3 +54,6 @@ client.on('message', message => {
 
 // login to Discord with the app's token
 client.login(token);
+
+// open documentation
+window.open('https://lukahn2501.github.io/Tachikoma/#/', '_self');
