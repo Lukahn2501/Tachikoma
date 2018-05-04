@@ -1,5 +1,5 @@
 <!-- docs/_sidebar.md -->
 
-* [Home](/)
+* [Home](/home.md)
 * [Guide](/testfolder/testpage.md)
   * [Title 1](/testfolder/testpage.md)
