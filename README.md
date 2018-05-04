@@ -4,12 +4,6 @@
 
 Everyday Discord Bot
 
-## Contents
-
-1. Initialization
-2. Commands  
-  a. server command
-
 ## Initialization
 
 1. Install Node.js (used: 10.0.0)
@@ -19,12 +13,4 @@ Everyday Discord Bot
 5. npm install
 
 Launch the bot: Node .
-Serve documentation: docsify serve ./docs
-
-## Commands
-
-### server command
-
-_Usage:_ !server `<name>` or `<owner>` or `<createdAt>`  
-_Function:_ provide information abour the current server
-
+Serve documentation: docsify serve ./docs then open localhost:3000

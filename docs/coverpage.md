@@ -6,10 +6,11 @@
 
 > Installation manual and User guide.
 
-* Social tool
-* Media tool
-* FFXIV raid tool
+* \- Social tool
+* \- Media tool
+* \- FFXIV raid tool
 
-[Let's go!](/README.md)
+[GitHub Repository](https://github.com/Lukahn2501/Tachikoma)
+[Read the documentation](/README.md)
 
 ![](_media/background.jpg)

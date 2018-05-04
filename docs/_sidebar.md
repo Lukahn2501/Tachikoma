@@ -1,5 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/home.md)
-* [Guide](/testfolder/testpage.md)
-  * [Title 1](/testfolder/testpage.md)
+* [Initialization](/Initialization/initialization.md)
+* [Commands](/Commands/commandlist.md)
+  * Server Infos
+    * [!server](/Commands/server.md)
