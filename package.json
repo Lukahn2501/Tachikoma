@@ -2,6 +2,9 @@
   "requires": true,
   "lockfileVersion": 1,
   "main": "index.js",
+  "scripts" :
+    { "start" : "node index.js"
+    },
   "dependencies": {
     "acorn": {
       "integrity": "sha512-jd5MkIUlbbmb07nXH0DT3y7rDVtkzDi4XZOUVWAer8ajmF/DTSSbl5oNFyDOl/OXA33Bl79+ypHhl2pN20VeOQ==",
