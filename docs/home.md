@@ -6,6 +6,6 @@ Tachikoma is a bot that aims to help you manage or using your discord server
 
 ## Contents
 
-1. Initialization
-2. Command List
+1. [Initialization](/Initialization/initialization.md)
+2. [Command List](/Commands/commandlist.md)
 
